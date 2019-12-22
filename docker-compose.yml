@@ -1,0 +1,9 @@
+version: '2'
+services:
+  xmas:
+    build: .
+    ports:
+      - 24120:5000
+    volumes:
+      - .:/app
+    restart: always

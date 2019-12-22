@@ -1,4 +1,4 @@
-A small server-side template injection challenge for the HackMe Event at the HM. 
+A small server-side template injection challenge for the HackMe-CTF Event at the HM. 
 
 
 W100 - Weihnachtsgebäck 
